@@ -1,3 +1,6 @@
 [submodule "meetappbackend"]
 	path = meetappbackend
 	url = https://github.com/mauriliotbs/meetappbackend
+[submodule "meetappweb"]
+	path = meetappweb
+	url = https://github.com/mauriliotbs/meetappweb.git
