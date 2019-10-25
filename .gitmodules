@@ -4,3 +4,6 @@
 [submodule "meetappweb"]
 	path = meetappweb
 	url = https://github.com/mauriliotbs/meetappweb.git
+[submodule "meetappmobile"]
+	path = meetappmobile
+	url = https://github.com/mauriliotbs/meetappmobile.git
